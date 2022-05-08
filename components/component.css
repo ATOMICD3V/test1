@@ -1,0 +1,9 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-button {
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #ffffff;
+}
